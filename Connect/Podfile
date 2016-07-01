@@ -3,6 +3,7 @@ target 'Connect' do
 pod 'AFNetworking','~>2.5.4'
 pod 'MJRefresh'
 pod 'Masonry'
+pod 'HyphenateFullSDK', :git => 'https://github.com/easemob/hyphenate-full-cocoapods.git'
 pod 'YYModel','~>0.9.9'
 pod 'FMDB','~>2.6'
 end
